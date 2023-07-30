@@ -1,1 +1,18 @@
-/*  your css code here. If applicable */
+#outer-div{
+	background-color:#f5f5f5;
+	padding:10px;
+}
+.inner-div{
+	background-color:white;
+	border:1px solid white;
+	margin-bottom:20px;
+	padding:20px;
+}
+.para-2{
+	text-align:right;
+	font-style:italic;
+}
+.para{
+	margin:0px;
+	padding
+}
